@@ -15,3 +15,13 @@ All functions and algorithms for this course are written from scratch, without t
 - Sobel Edge Detector
 - Gaussian Blurring
 - Harris Corner Detector
+
+## Assignment 3
+- Image classification using Harris Feature eigenvalue distributions
+- Mahalanobis Distance
+- Bayes Linear Discriminant Functions
+
+## Assignment 4
+- Cifar10 Image classification
+- Fisher Linear Discriminant Functions
+- Convolutional Neural Networks
